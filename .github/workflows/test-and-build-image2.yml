@@ -1,8 +1,5 @@
 name: test-and-build-image2
 on:
-  push:
-    branches:
-      - "**"
   workflow_dispatch:
 
 jobs:
